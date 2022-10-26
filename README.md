@@ -1,1 +1,1 @@
-# resourcejarkom2
+# Resource
